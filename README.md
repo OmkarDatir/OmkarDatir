@@ -1,3 +1,4 @@
+![logo](https://github.com/OmkarDatir/OmkarDatir/blob/main/Designer.png)
 <h1 align="center">Hi 👋, I'm Omkar Datir</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
